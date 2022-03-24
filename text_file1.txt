@@ -1,1 +1,2 @@
 This is the first example
+This is an ammended file
