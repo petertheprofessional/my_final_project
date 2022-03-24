@@ -6,8 +6,11 @@
 ## Related Work and Apps
 
 1 For Peter to complete this project, he needs to have a well rounded understanding of Linux based systems,*Python*, 'SQL' (and other databases) as well as good understanding of APIs
+
 2 It will easily be understood for his peers and teachers
+
 3 It needs to be easily understood
+
 4 A related work will be the Alltrails app
 
 ## Unique Features
